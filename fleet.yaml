@@ -1,6 +1,6 @@
 # fleet.yaml
 
-defaultNamespace: nginx-test
+defaultNamespace: observability
 
 # Lasciando vuoto il resto, Fleet applicherà i manifesti a tutti i cluster
 # registrati in questo workspace (il che è perfetto per un test).
